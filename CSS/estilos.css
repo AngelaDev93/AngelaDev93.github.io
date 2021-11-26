@@ -1,17 +1,17 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8"/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Esta pagina muestra el portafolio de Angela Fandiño"/>
-    <meta name="robots" content="index,follow"/>
-    <link rel="stylesheet" href="."
-    <title>AngelaWeb93 Portafolio</title>
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
-</head>
-<body>
+html{
+    font-size: 62,5%;
+}
 
+body{
+    background-color: pink;
+}
+
+header img{
     
-</body>
-</html>
+}
