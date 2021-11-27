@@ -9,9 +9,13 @@ html{
 }
 
 body{
-    background-color: pink;
+    background-color: white;
 }
 
+header p{
+    width: auto;
+}
 header img{
-    
+    width: 100%;
+    height: 100%;
 }
